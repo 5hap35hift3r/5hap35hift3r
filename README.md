@@ -21,6 +21,6 @@ Email: ze5hap35h1ft3r@gmail.com<br>
 [![](https://visitcount.itsvg.in/api?id=5hap35hift3r&icon=5&color=0)](https://visitcount.itsvg.in)
 
   ##                                            💰 You can help me by Donating
-                                                                [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ko-fi.com/5hap35hift3r) 
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ko-fi.com/5hap35hift3r) 
 
   
