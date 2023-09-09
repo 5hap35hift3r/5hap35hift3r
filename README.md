@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber security, linux servers
 - 🌱 I’m currently learning javascript & CI/CD
 - 📫 How to reach me {
--  Email: a.barakizade@gmail.com
+-  Email: ze5hap35h1ft3r@gmail.com
 - }
 
 <!---
