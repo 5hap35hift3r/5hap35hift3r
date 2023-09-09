@@ -4,7 +4,7 @@
 🌱 I’m currently learning javascript & CI/CD<br>
 📫 How to reach me {<br>
 Email: ze5hap35h1ft3r@gmail.com,<br>
-Website: parva.itarea.cyou
+Website: (parva.itarea.cyou) <br>
 }
 
 
