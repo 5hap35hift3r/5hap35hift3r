@@ -1,5 +1,5 @@
 
-                                                👾Hi, I’m @5hap35hift3r👾<br>
+                                                👾Hi, I’m @5hap35hift3r👾
 👀 I’m interested in cyber security, pretty much everything<br>
 🌱 I’m currently learning javascript & CI/CD<br>
 📫 How to reach me {<br>
@@ -12,7 +12,7 @@ Email: ze5hap35h1ft3r@gmail.com<br>
 #                                               📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=5hap35hift3r&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=5hap35hift3r&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=5hap35hift3r&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ###                                             😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
