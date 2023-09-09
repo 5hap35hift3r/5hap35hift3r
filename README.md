@@ -3,7 +3,8 @@
 👀 I’m interested in cyber security, pretty much anything complicated<br>
 🌱 I’m currently learning javascript & CI/CD<br>
 📫 How to reach me {<br>
-Email: ze5hap35h1ft3r@gmail.com<br>
+Email: ze5hap35h1ft3r@gmail.com<br>,
+Website: parva.itarea.cyou
 }
 
 
